@@ -14,5 +14,4 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kssiou\&hide=contribs,issues />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kssiou\&hide=contribs,issues)
