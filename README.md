@@ -3,6 +3,15 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kssiou&label=Profile%20views&color=0e75b6&style=flat" alt="kssiou" />
+  <a href="mailto:mouadkssiou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mouadkssiou%40gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://linkedin.com/in/mouad-kssiou">
+    <img src="https://img.shields.io/badge/LinkedIn-mouad--kssiou-blue?style=flat&logo=linkedin" alt="linkedin" />
+  </a>
+  <a href="https://www.hackerrank.com/mouad_kssiou">
+    <img src="https://img.shields.io/badge/HackerRank-mouad__kssiou-green?style=flat&logo=hackerrank" alt="hackerrank" />
+  </a>
 </p>
 
 ### 👨‍💻 About Me
@@ -18,6 +27,8 @@
 <a href="https://kaggle.com/mouad-kssiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mouad kssiou" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mouad_kssiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mouad kssiou" height="30" width="40" /></a>
 </p>
+
+### 🛠 Technologies & Tools:
 
 <p align="left">
   <!-- Backend -->
@@ -40,6 +51,7 @@
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
 </p>
+
 ### 📊 GitHub Stats:
 
 <p align="center">
@@ -50,9 +62,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kssiou&theme=dark" alt="kssiou's streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kssiou&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 ---
 ⭐️ From [kssiou](https://github.com/kssiou)
