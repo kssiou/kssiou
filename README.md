@@ -14,4 +14,4 @@
 
 📈 my github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kssiou\&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kssiou\&hide=stars,issues)
