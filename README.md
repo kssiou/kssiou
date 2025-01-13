@@ -2,16 +2,11 @@
 <h3 align="center">A passionate Full Stack Developer with focus on Web Development and Security</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kssiou&label=Profile%20views&color=0e75b6&style=flat" alt="kssiou" />
-  <a href="mailto:mouadkssiou@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mouadkssiou%40gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://linkedin.com/in/mouad-kssiou">
-    <img src="https://img.shields.io/badge/LinkedIn-mouad--kssiou-blue?style=flat&logo=linkedin" alt="linkedin" />
-  </a>
-  <a href="https://www.hackerrank.com/mouad_kssiou">
-    <img src="https://img.shields.io/badge/HackerRank-mouad__kssiou-green?style=flat&logo=hackerrank" alt="hackerrank" />
-  </a>
+![Profile View Counter](https://komarev.com/ghpvc/?username=kssiou&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouadkssiou)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mouadkssiou)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mouadkssiou@gmail.com)](mailto:mouadkssiou@gmail.com)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://kaggle.com/mouadkssiou)
 </p>
 
 ### 👨‍💻 About Me
@@ -21,12 +16,7 @@
 - 💬 Ask me about **Java, Spring Boot, Angular, and Security**
 - 📫 How to reach me: **mouadkssiou@gmail.com**
 
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/mouad-kssiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouad kssiou" height="30" width="40" /></a>
-<a href="https://kaggle.com/mouad-kssiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mouad kssiou" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mouad_kssiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mouad kssiou" height="30" width="40" /></a>
-</p>
+
 
 ### 🛠 Technologies & Tools:
 
