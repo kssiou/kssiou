@@ -10,7 +10,7 @@
 
 💡 Core expertise in Java, Spring Boot, Angular, and Application Security
 
-✉️ Professional inquiries: mouadkssiou@gmail.com
+✉️ 📫 How to reach me: mouadkssiou@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
