@@ -3,13 +3,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kssiou&style=flat-square) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouadkssiou) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mouadkssiou@gmail.com)
 
 <h3 align="left">Backend Engineer | Security Focused</h3>
+🚀  Developing secure and scalable backend solutions using HSM and PKI
+🤝  Actively contributing to PKI solution open source projects
+💡  Core expertise in Java, Spring Boot, Angular, and Application Security
+✉️  Professional inquiries: mouadkssiou@gmail.com
 
-<div style="margin: 30px 0">
-  🚀 &nbsp;Developing secure and scalable backend solutions<br><br>
-  🤝 &nbsp;Actively seeking collaborations on innovative open source projects in the Java ecosystem<br><br>
-  💡 &nbsp;Core expertise in `Java`, `Spring Boot`, `Angular`, and `Application Security`<br><br>
-  ✉️ &nbsp;Professional inquiries: **mouadkssiou@gmail.com**
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="line-height: 70px"> 
