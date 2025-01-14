@@ -37,5 +37,5 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 30px">
   <img src="https://github-readme-stats.vercel.app/api?username=kssiou&hide=stars,issues&show_icons=true&theme=dark&rank_icon=github&cache_seconds=1800" alt="kssiou's GitHub stats" style="width: 49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kssiou&theme=dark&cache_seconds=1800" alt="kssiou's streak" style="width: 49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kssiou&theme=dark" alt="kssiou's streak" style="width: 49%" />
 </div>
