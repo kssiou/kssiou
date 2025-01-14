@@ -1,12 +1,25 @@
 <h1 align="center">Hi 👋, I'm Mouad</h1>
 <h3 align="center">A passionate Full Stack Developer with focus on Web Development and Security</h3>
 
+<h1 align="center">Hi 👋, I'm Mouad</h1>
+<h3 align="center">A passionate Full Stack Developer with focus on Web Development and Security</h3>
+
 <p align="center">
-![Profile View Counter](https://komarev.com/ghpvc/?username=kssiou&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouadkssiou)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mouadkssiou)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mouadkssiou@gmail.com)](mailto:mouadkssiou@gmail.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://kaggle.com/mouadkssiou)
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=kssiou&style=flat-square" alt="Profile View Counter" />
+  </a>
+  <a href="https://linkedin.com/in/mouadkssiou">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/mouadkssiou">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="mailto:mouadkssiou@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://kaggle.com/mouadkssiou">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 </p>
 
 ### 👨‍💻 About Me
