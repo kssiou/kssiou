@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mouad</h1>
+<h2 align="left">Hello, I'm Mouad 👋</h2>
 <p align="left">
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=kssiou&style=flat-square" alt="Profile View Counter" />
@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kssiou&hide=stars,issues&show_icons=true&theme=dark&rank_icon=github" alt="kssiou's GitHub stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kssiou&theme=dark" alt="kssiou's streak" />
 </p>
 
