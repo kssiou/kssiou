@@ -18,7 +18,6 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>&nbsp;&nbsp;
@@ -37,6 +36,6 @@
 <h3>📊 GitHub Stats:</h3>
 
 <div style="display: flex; justify-content: space-between; margin-top: 30px">
-  <img src="https://github-readme-stats.vercel.app/api?username=kssiou&hide=stars,issues&show_icons=true&theme=dark&rank_icon=github" alt="kssiou's GitHub stats" style="width: 49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kssiou&theme=dark" alt="kssiou's streak" style="width: 49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kssiou&hide=stars,issues&show_icons=true&theme=dark&rank_icon=github&cache_seconds=1800" alt="kssiou's GitHub stats" style="width: 49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kssiou&theme=dark&cache_seconds=1800" alt="kssiou's streak" style="width: 49%" />
 </div>
