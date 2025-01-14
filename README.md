@@ -4,7 +4,7 @@
 
 <h3 align="left">Backend Engineer | Security Focused</h3>
 
-🚀 Developing secure and scalable backend solutions using 
+🚀 Developing secure and scalable backend solutions  
 
 👨‍💻 Actively contributing to PKI solution open source projects
 
