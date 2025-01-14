@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mouad</h1>
 <h3 align="center">A passionate Full Stack Developer with focus on Web Development and Security</h3>
 
-<h1 align="center">Hi 👋, I'm Mouad</h1>
-<h3 align="center">A passionate Full Stack Developer with focus on Web Development and Security</h3>
+
 
 <p align="center">
   <a href="#">
