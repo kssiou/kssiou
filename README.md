@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:mouadkssiou@gmail.com)
 
 
-<h3 align="left">Offensive Security Engineer</h3>
+<h3 align="left">Offensive Security Engineer | OSCP Certified</h3>
 
 Offensive Security Engineer with professional experience in **penetration testing**, **Active Directory security assessments**, and **enterprise authentication infrastructures**.
 
