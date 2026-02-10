@@ -1,41 +1,62 @@
-<h2 align="left">Hello, I'm Mouad 👋</h2>
+<h2 align="left">Mouad Kssiou</h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kssiou&style=flat-square) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouadkssiou) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mouadkssiou@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=kssiou&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouadkssiou)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:mouadkssiou@gmail.com)
 
-<h3 align="left">Backend Engineer | Security Focused</h3>
+<h3 align="left">Offensive Security Engineer | OSCP</h3>
 
-🚀 Developing secure and scalable backend solutions  
+OSCP-certified **Offensive Security Engineer** with hands-on experience in **web, network, and Active Directory penetration testing**.  
+Strong background in **enterprise PKI and authentication infrastructures**, providing a solid understanding of real-world attack surfaces and misconfigurations.
 
-👨‍💻 Actively contributing to PKI solution open source projects
+---
 
-💡 Core expertise in Java, Spring Boot, Angular, and Application Security
+### Professional Focus
+- Web application penetration testing (OWASP Top 10)
+- Active Directory attacks and privilege escalation
+- Internal network penetration testing
+- Identification and exploitation of authentication and certificate-based weaknesses
+- Security assessment of PKI and identity infrastructures
 
-✉️ 📫 How to reach me: mouadkssiou@gmail.com
+---
 
+### Offensive Security Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="line-height: 70px"> 
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-</p>
+**Web Application Testing**
+- Burp Suite, SQLMap, FFUF, Gobuster, Nikto, WPScan
 
-<h3>📊 GitHub Stats:</h3>
+**Active Directory & Internal Networks**
+- BloodHound, Impacket, Mimikatz, PowerView
+- NTLM relaying, Kerberos attacks, delegation abuse
 
-<div style="display: flex; justify-content: space-between; margin-top: 30px">
-  <img src="https://github-readme-stats.vercel.app/api?username=kssiou&hide=stars,issues&show_icons=true&theme=dark&rank_icon=github&cache_seconds=1800" alt="kssiou's GitHub stats" style="width: 49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kssiou&theme=dark" alt="kssiou's streak" style="width: 49%" />
+**Network & Exploitation**
+- Nmap, Metasploit Framework, Responder, NetExec
+- Linux and Windows post-exploitation
+
+**Password Attacks**
+- Hashcat, John the Ripper
+
+---
+
+### Technical Background (Supporting Skills)
+- Enterprise PKI: X.509, AD CS, OCSP, CRL, certificate lifecycle
+- Authentication: Kerberos, NTLM, MFA, FIDO2/WebAuthn
+- Systems: Linux, Windows Server, Active Directory
+- Scripting: Bash, PowerShell, Python
+- Application security & secure API design
+
+---
+
+### Certifications
+- Offensive Security Certified Professional (OSCP)
+- TryHackMe – Jr Penetration Tester
+- TryHackMe – Web Fundamentals
+
+---
+
+<h3>GitHub Activity</h3>
+
+<div style="display: flex; justify-content: space-between; margin-top: 20px">
+  <img src="https://github-readme-stats.vercel.app/api?username=kssiou&hide=stars,issues&show_icons=true&theme=dark" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kssiou&theme=dark" width="49%" />
 </div>
