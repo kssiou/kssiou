@@ -1,33 +1,26 @@
 <h2 align="left">Mouad Kssiou</h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kssiou&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouadkssiou)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:mouadkssiou@gmail.com)
+[LinkedIn](https://linkedin.com/in/mouadkssiou) ·
+[Email](mailto:mouadkssiou@gmail.com)
 
-<h3 align="left">Offensive Security Engineer | OSCP</h3>
+<h3 align="left">Offensive Security Engineer</h3>
 
-OSCP-certified **Offensive Security Engineer** with hands-on experience in **web, network, and Active Directory penetration testing**.  
-Strong background in **enterprise PKI and authentication infrastructures**, enabling effective identification of real-world attack paths.
+Offensive Security Engineer with professional experience in **penetration testing**, **Active Directory security assessments**, and **enterprise authentication infrastructures**.
 
----
+My work focuses on identifying **realistic attack paths**, exploiting **misconfigurations**, and evaluating the security posture of **complex enterprise environments**, with a strong understanding of how PKI and identity systems are abused in real-world scenarios.
 
-### Core Offensive Skills
-- **Web Pentesting:** Burp Suite, SQLMap, FFUF, Gobuster, Nikto, WPScan
-- **Active Directory:** BloodHound, Impacket, Mimikatz, PowerView
-- **Network & Exploitation:** Nmap, Metasploit, Responder, NetExec
-- **Password Attacks:** Hashcat, John the Ripper
+I approach security from an **attacker’s perspective**, while maintaining a clear understanding of defensive constraints and enterprise risk.
 
 ---
 
-### Technical Background
-- Enterprise PKI (X.509, AD CS, OCSP, CRL)
-- Active Directory, Kerberos, NTLM
-- Linux, Windows Server
-- Scripting: Bash, PowerShell, Python
+### Areas of Expertise
+- Web application and internal network penetration testing  
+- Active Directory attack paths and privilege escalation  
+- Authentication and certificate-based security weaknesses  
+- Security assessment of enterprise identity infrastructures  
 
 ---
 
 ### Certifications
 - Offensive Security Certified Professional (OSCP)
-- TryHackMe – Jr Penetration Tester
-- TryHackMe – Web Fundamentals
