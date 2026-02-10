@@ -1,8 +1,9 @@
 <h2 align="left">Mouad Kssiou</h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kssiou&style=flat-square)
-[LinkedIn](https://linkedin.com/in/mouadkssiou) ·
-[Email](mailto:mouadkssiou@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouadkssiou)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:mouadkssiou@gmail.com)
+
 
 <h3 align="left">Offensive Security Engineer</h3>
 
